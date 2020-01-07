@@ -1,4 +1,8 @@
-# UNIT-1 PRACTICE
+
+title: "UNIT-1 PRACTICE"
+author: "Rinku Lichti"
+date: "01/07/2020"
+
 install.packages(c("brew", "countrycode", "devtools", "googleVis", "knitr", "MCMCpack", "repmis", "RCurl", "rmarkdown", 
                    "textreg", "WDI", "xtable", "Zelig"))
 sessionInfo()
@@ -466,6 +470,5 @@ sd(xbars)
 
 pairs(~mpg+disp+drat+wt,data=mtcars, main="Simple Scatterplot Matrix")
 
-dfsg     
-
+sessionInfo()
 
